@@ -55,7 +55,7 @@ Follow these steps to create a new Device Provisioning Service instance.
 
 1. Select **Next: Tags** to continue to the next screen.
 
-   Tags are name/value pairs. You can assign the same tag to multiple resources and resource groups to categorize resources and consolidate billing. For more information, see [Use tags to organize your Azure resources](../articles/azure-resource-manager/management/tag-resources.md).
+   Tags are name/value pairs. You can assign the same tag to multiple resources and resource groups to categorize resources and consolidate billing. For more information, see [Use tags to organize your Azure resources](../azure-resource-manager/management/tag-resources.md).
 
    :::image type="content" source="./media/tutorial-set-up-cloud/create-iot-dps-portal-tags.png" alt-text="Assign tags for the service using the Azure portal.":::
 
